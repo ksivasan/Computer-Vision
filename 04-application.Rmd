@@ -1,4 +1,4 @@
-# Applications
+# L5. Estimating homography (manually)
 
 Some _significant_ applications are demonstrated in this chapter.
 
